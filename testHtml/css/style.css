@@ -1,0 +1,11 @@
+td{
+	font-size: 2em;
+	font-family: Gulim;
+	text-align: center;
+	color: blue;
+}
+
+.table_title{
+	background-color: green;
+	font-size: 1.25em;
+}
